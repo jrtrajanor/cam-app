@@ -5,3 +5,6 @@ Aplicativo de acesso a câmera do dispositivo usando react JS, electron para ger
 command for buildcd
 
 yarn package-build
+
+command git
+
